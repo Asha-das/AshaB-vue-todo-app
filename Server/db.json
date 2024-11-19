@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "5712",
+      "name": "Asha B",
+      "email": "ashabramadass@gmail.com",
+      "password": "Asha@1",
+      "phone": "9092042692"
+    },
+    {
+      "id": "dcc0",
+      "name": "mancy",
+      "email": "ashabramadass@gmail.com",
+      "phone": "9092042692",
+      "password": "mancy12"
+    }
+  ],
+  "todos": []
+}
